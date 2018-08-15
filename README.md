@@ -1,2 +1,3 @@
-# rsync_utils
-Utilities/examples for Rsync based migrations
+# rsync
+
+a place to edit/add the exclusions and other general rsync settings
